@@ -1,6 +1,9 @@
 {
-    "title":"Blog Title",
-    "subTitle":"Blog description",
+    "title":"Gilfoyle",
+    "subTitle":"YueHeng's Blog",
     "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
-    "GMEEK_VERSION":"last"
+    "GMEEK_VERSION":"last",
+    "email":"2654972242@qq.com",
+    "needComment":1,
+    "startSite":"08/15/2025",
 }
